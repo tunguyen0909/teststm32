@@ -1,0 +1,17 @@
+main.c:71:5:chuyenChartoInt	16	static
+main.c:76:6:DC1_thuan	16	static
+main.c:83:6:DC1_nghich	16	static
+main.c:90:6:DC2_thuan	16	static
+main.c:96:6:DC2_nghich	16	static
+main.c:103:6:lui	8	static
+main.c:109:6:tien	8	static
+main.c:115:6:dung	8	static
+main.c:130:5:main	8	static
+main.c:184:6:SystemClock_Config	88	static
+main.c:229:13:MX_TIM1_Init	96	static
+main.c:308:13:MX_TIM9_Init	24	static
+main.c:346:13:MX_USART2_UART_Init	8	static
+main.c:379:13:MX_USART3_UART_Init	8	static
+main.c:410:13:MX_DMA_Init	16	static
+main.c:431:13:MX_GPIO_Init	48	static
+main.c:509:6:Error_Handler	4	static,ignoring_inline_asm
